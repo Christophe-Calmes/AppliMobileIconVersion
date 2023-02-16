@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "appliMobileForum",
+    "slug": "appliMobileForum",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.c.calmes.appliMobileForum"
+    },
+    "web": {
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c38c3432-5ffd-4053-a5e3-13eec115e545"
+      }
+    }
+  }
+}
